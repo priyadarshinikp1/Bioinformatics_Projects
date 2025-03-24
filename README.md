@@ -1,4 +1,4 @@
-# Bioinformatics_Projects
+# Multiomics_Integration_Projects
 # MOFA-based Multi-Omics Integration for Cardiovascular Disease (CVD)
 
 ## Overview
